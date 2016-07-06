@@ -1,6 +1,6 @@
-# The RailsBridge Documentation Project
+# The PhoenixBridge Documentation Project
 
-[![Build Status](https://travis-ci.org/railsbridge/docs.png)](https://travis-ci.org/railsbridge/docs)
+This is a fork fo the Railsbridge documention project. The goal is to translate the curriculum to Phoenix/Elixir.
 
 ## Overview
 
